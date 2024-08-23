@@ -1,0 +1,9 @@
+# rag-hnsw/batch/requirements.txt
+openai
+python-dotenv
+boto3
+pypdf
+psycopg[binary]
+pandas
+openpyxl
+langchain-text-splitters
